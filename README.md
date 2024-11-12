@@ -83,15 +83,16 @@
 | Category                            | Technologies                                       |
 | ----------------------------------- | -------------------------------------------------- |
 | **Fields**                          | Full-Stack Web Dev, Mobile Dev, Server Software    |
-| **Languages**                       | Python, Golang, TypeScript, Swift, C++, Java       |
-| **Backend Framework**               | Node.js, Express.js, Django, Spring Boot           |
+| **Languages**                       | Python, Golang, TypeScript, Swift, C++/C , Java    |
+| **Backend Framework**               | Django, Spring Boot, Gin, Vapor, Node.js           |
 | **Frontend & UI**                   | React, React Native, Vue, Nuxt, CSS, SCSS          |
 | **Mobile**                          | SwiftUI, UIKit; React Native                       |
 | **APIs**                            | RESTful APIs, WebSockets, GraphQL                  |
-| **Data storage and querying**       | databases like PostgreSQL, MongoDB; Redis; Pulsar, RabbitMQ |
+| **Backend Services**                | Redis, Pulsar, RabbitMQ, AWS S3                    |
+| **Database**                        | PostgresSQL, MongoDB                               |
 | **Testing**                         | Jest, Cypress, Freego                              |
 | **Build Tools**                     | Webpack, Babel, Vite, Metro                        |
-| **Version Control**                 | Git, GitHub                                        |
+| **Version Control**                 | Git, GitHub, GitLab                                |
 
 <br>
 
