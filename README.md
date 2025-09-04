@@ -102,11 +102,12 @@
 
 
 
-
+<!--
 <p align="center">
   <a href="https://navendu.me"><img src="https://pbs.twimg.com/profile_banners/1416121751843475456/1651700284/1500x500"(https://pbs.twimg.com/profile_banners/1416121751843475456/1651700284/1500x500) alt="banner" href=""></a>
   </br>
 </p>
+-->
 
 
 
